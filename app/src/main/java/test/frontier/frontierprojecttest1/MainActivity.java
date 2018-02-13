@@ -13,5 +13,6 @@ public class MainActivity extends AppCompatActivity {
 
         String str= "String";
         int num = 10;
+        String update = "Change from android studio";
     }
 }
