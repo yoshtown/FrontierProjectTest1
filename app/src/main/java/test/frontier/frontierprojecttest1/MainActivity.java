@@ -13,5 +13,6 @@ public class MainActivity extends AppCompatActivity {
 
         String str= "String";
         int change = 12;
+        int num = 10;
     }
 }
