@@ -13,5 +13,6 @@ public class MainActivity extends AppCompatActivity {
 
         String str= "String";
         int num = 10;
+        String message = "Change from Github";
     }
 }
