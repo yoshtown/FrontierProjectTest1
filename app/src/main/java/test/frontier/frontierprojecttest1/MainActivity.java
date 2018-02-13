@@ -12,5 +12,6 @@ public class MainActivity extends AppCompatActivity {
         //Make change
 
         String str= "String";
+        int change = 12;
     }
 }
